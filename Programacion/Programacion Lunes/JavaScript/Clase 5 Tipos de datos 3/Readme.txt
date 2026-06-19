@@ -1,0 +1,1 @@
+En la clase 5 solo habia actividad practica tercera parte de tipos de datos.

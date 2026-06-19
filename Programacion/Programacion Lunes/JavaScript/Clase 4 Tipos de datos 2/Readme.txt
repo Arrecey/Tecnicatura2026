@@ -1,0 +1,1 @@
+En la clase 4 solo habia actividad practica segunda parte de tipos de datos.
